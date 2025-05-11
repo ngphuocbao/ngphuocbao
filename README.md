@@ -1,10 +1,10 @@
 🔥 Hi, I’m @ngphuocbao  
-👀 I’m interested in digital design, SoC/ASIC design, and embedded systems.  
-🌱 I’m currently learning advanced VLSI techniques, RTL design with SystemVerilog, and verification flows.  
-💕 I’m looking to collaborate on open-source FPGA/ASIC projects or anything related to IC design.  
-📫 How to reach me: npbao1404@gmail.com 
+👀 I’m interested in integrated circuit design, especially RTL design and functional verification.  
+🌱 I’m currently learning advanced techniques in ASIC/FPGA design, focusing on APB/AHB protocols, testbench development, and simulation tools like ModelSim.  
+💕 I’m looking to collaborate on open-source IC design projects or contribute to RTL-based IP core development.  
+📫 How to reach me: npbao1404@gmail.com  
 😄 Pronouns: he/him  
-⚡ Fun fact: I can spend hours optimizing logic gate paths just for fun!
+⚡ Fun fact: I once built and verified a 64-bit APB Timer IP core from scratch using Verilog and simulated it entirely on a remote Linux server!
 
 ---
 

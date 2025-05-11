@@ -8,7 +8,3 @@ WELCOME TO MY GITHUB PROFILE !!!
 😄 Pronouns: he/him  
 ⚡ Fun fact: I once built and verified a 64-bit APB Timer IP core from scratch using Verilog and simulated it entirely on a remote Linux server!
 
----
-
-`ngphuocbao/ngphuocbao` is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.  
-You can click the Preview link to take a look at your changes.

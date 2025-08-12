@@ -1,5 +1,7 @@
 👋 Hi, I’m Bao Nguyen Phuoc
+
 🎓 Senior student at the University of Science, Vietnam National University – Ho Chi Minh City
+
 📚 Major in Electronics and Telecommunications | Focus on RTL Design & IC Design
 
 I’m passionate about digital design—transforming abstract logic into real, high-performance systems through RTL coding, FPGA implementation, and the ASIC design flow. My expertise lies in developing and verifying digital IP cores, optimizing for both performance and reliability, and working with industry-standard simulation tools.

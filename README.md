@@ -10,7 +10,7 @@ Over my academic journey, I have:
 -Gained hands-on experience across the entire digital IC workflow—from RTL coding and functional verification to FPGA deployment—while constantly optimizing for performance.
 
 Core Skills:
--Verilog HDL | RTL Design & Verification | FPGA Implementation (Intel Quartus, Altera DE2) | APB/AHB Protocols | Testbench Development | ModelSim | Synopsys VCS/DVE | Design Compiler | Linux (MobaXterm)
+Verilog HDL | RTL Design & Verification | FPGA Implementation (Intel Quartus, Altera DE2) | APB/AHB Protocols | Testbench Development | ModelSim | Synopsys VCS/DVE | Design Compiler | Linux (MobaXterm)
 
 I’m always ready to collaborate on open-source IC design projects, tackle challenging verification problems, and craft IP cores that make a difference. My goal? To grow into a Digital Design Engineer who blends creativity, precision, and innovation in every project.
 

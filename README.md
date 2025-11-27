@@ -1,6 +1,6 @@
 👋 Hi, I’m Bao Nguyen Phuoc
 
-🎓 Senior student at the University of Science, Vietnam National University – Ho Chi Minh City
+🎓 Graduated from the University of Science, Vietnam National University – Ho Chi Minh City
 
 📚 Major in Electronics and Telecommunications | Focus on RTL Design & IC Design
 

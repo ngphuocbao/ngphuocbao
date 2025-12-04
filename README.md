@@ -18,3 +18,4 @@ Verilog HDL | RTL Design & Verification | FPGA Implementation (Intel Quartus, Al
 I’m eager to collaborate on open-source IC design projects, contribute to RTL-based IP core development, and take on new challenges in functional verification and digital system optimization.
 
 📩 Contact: npbao1404@gmail.com
+-> My CV: file:///C:/Users/npb14/Downloads/CV-NguyenPhuocBao.pdf

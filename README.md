@@ -1,21 +1,18 @@
-👋 Hi, I’m Bao Nguyen Phuoc
+I graduated from the University of Science, Vietnam National University – Ho Chi Minh City, majoring in Electronics and Telecommunications, with a strong focus on RTL design, FPGA implementation, and ASIC design flow.
+For me, digital design is more than just code and schematics—it’s about transforming abstract logic into real, working systems that push the limits of performance and reliability.
 
-🎓 Graduated from the University of Science, Vietnam National University – Ho Chi Minh City
+Over my academic journey, I have:
 
-📚 Major in Electronics and Telecommunications | Focus on RTL Design & IC Design
+Built from scratch a fully functional 64-bit Timer IP core in Verilog, APB 3.0-compliant, with modular design, interrupt handling, and automated simulation on a remote Linux server.
 
-I’m passionate about digital design—transforming abstract logic into real, high-performance systems through RTL coding, FPGA implementation, and the ASIC design flow. My expertise lies in developing and verifying digital IP cores, optimizing for both performance and reliability, and working with industry-standard simulation tools.
+Implemented a Square Multiplier Block using the ancient Vedic algorithm (Urdhva Tiryakbhyam) on an FPGA, applying a hierarchical design approach for efficiency and scalability.
 
-🚀 Key Projects
-64-bit Timer IP Core (Verilog, APB 3.0) – Designed from scratch with modular architecture, interrupt handling, and automated simulation on a remote Linux server.
+Gained hands-on experience across the entire digital IC workflow—from RTL coding and functional verification to FPGA deployment—while constantly optimizing for performance.
 
-Square Multiplier Block – Implemented using the Vedic algorithm (Urdhva Tiryakbhyam) on FPGA with a hierarchical design approach for efficiency and scalability.
-
-🛠 Core Skills
+Core Skills:
 Verilog HDL | RTL Design & Verification | FPGA Implementation (Intel Quartus, Altera DE2) | APB/AHB Protocols | Testbench Development | ModelSim | Synopsys VCS/DVE | Design Compiler | Linux (MobaXterm)
 
-🌟 What I’m Looking For
-I’m eager to collaborate on open-source IC design projects, contribute to RTL-based IP core development, and take on new challenges in functional verification and digital system optimization.
+I’m always ready to collaborate on open-source IC design projects, tackle challenging verification problems, and craft IP cores that make a difference. My goal? To grow into a Digital Design Engineer who blends creativity, precision, and innovation in every project.
 
-📩 Contact: npbao1404@gmail.com
--> My CV: file:///C:/Users/npb14/Downloads/CV-NguyenPhuocBao.pdf
+Contact: npbao1404@gmail.com
+GitHub: github.com/ngphuocbao

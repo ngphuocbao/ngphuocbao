@@ -14,5 +14,6 @@ Verilog HDL | RTL Design & Verification | FPGA Implementation (Intel Quartus, Al
 
 I’m always ready to collaborate on open-source IC design projects, tackle challenging verification problems, and craft IP cores that make a difference. My goal? To grow into a Digital Design Engineer who blends creativity, precision, and innovation in every project.
 
-Contact: npbao1404@gmail.com
+Contact
+Email: npbao1404@gmail.com
 GitHub: github.com/ngphuocbao

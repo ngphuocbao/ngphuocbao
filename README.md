@@ -1,4 +1,5 @@
-I graduated from the University of Science, Vietnam National University – Ho Chi Minh City, majoring in Electronics and Telecommunications, with a strong focus on RTL design, FPGA implementation, and ASIC design flow.
+I graduated from the University of Science, Vietnam National University – Ho Chi Minh City, majoring in Electronics and Telecommunications, with a strong focus on the ASIC design.
+
 For me, digital design is more than just code and schematics—it’s about transforming abstract logic into real, working systems that push the limits of performance and reliability.
 
 Over my academic journey, I have:
